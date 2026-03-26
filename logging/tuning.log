@@ -1,0 +1,86 @@
+2026-03-27 04:48:12,421-INFO-Basline model training has started
+2026-03-27 04:49:36,494-INFO-Tuning has started
+2026-03-27 04:59:43,110-INFO-Tuning has started
+2026-03-27 04:59:53,427-INFO-Tuning has started
+2026-03-27 04:59:53,514-INFO-Pipeline for categorical and numerical features is built
+2026-03-27 04:59:53,700-INFO-Model is trained with DT
+2026-03-27 04:59:53,700-INFO-Starting Grid Search for DT
+2026-03-27 05:00:06,718-INFO-Grid Search complete. Best params: {'model__max_depth': None, 'model__min_samples_leaf': 2, 'model__min_samples_split': 5}
+2026-03-27 05:00:06,722-INFO-DT is saved at C:\Irrigation_Water_Requirement\Models\all_models
+2026-03-27 05:00:06,744-INFO-Prediction is done with DT
+2026-03-27 05:00:06,760-INFO-Results are saved at DT
+2026-03-27 05:00:06,771-INFO-Pipeline for categorical and numerical features is built
+2026-03-27 05:00:27,552-INFO-Model is trained with Stack_Cls
+2026-03-27 05:00:27,552-INFO-Starting Grid Search for Stack_Cls
+2026-03-27 05:38:58,064-ERROR-Error during Grid Search: [WinError 1450] Insufficient system resources exist to complete the requested service
+2026-03-27 05:43:07,658-INFO-Tuning has started
+2026-03-27 05:43:07,748-INFO-Pipeline for categorical and numerical features is built
+2026-03-27 05:43:07,957-INFO-Model is trained with DT
+2026-03-27 05:43:07,957-INFO-Starting Grid Search for DT
+2026-03-27 05:43:21,519-INFO-Grid Search complete. Best params: {'model__max_depth': None, 'model__min_samples_leaf': 2, 'model__min_samples_split': 5}
+2026-03-27 05:43:21,523-INFO-DT is saved at C:\Irrigation_Water_Requirement\Models\all_models
+2026-03-27 05:43:21,542-INFO-Prediction is done with DT
+2026-03-27 05:43:21,554-INFO-Results are saved at DT
+2026-03-27 05:43:21,561-INFO-Pipeline for categorical and numerical features is built
+2026-03-27 05:43:36,863-INFO-Model is trained with Stack_Cls
+2026-03-27 05:43:36,864-INFO-Starting Grid Search for Stack_Cls
+2026-03-27 05:55:02,123-INFO-Grid Search complete. Best params: {'model__lr__C': 0.01, 'model__xgb__learning_rate': 0.1, 'model__xgb__max_depth': 5, 'model__xgb__n_estimators': 200}
+2026-03-27 05:55:02,141-INFO-Stack_Cls is saved at C:\Irrigation_Water_Requirement\Models\all_models
+2026-03-27 05:55:02,180-INFO-Prediction is done with Stack_Cls
+2026-03-27 05:55:02,197-INFO-Results are saved at Stack_Cls
+2026-03-27 06:00:27,123-INFO-Tuning has started
+2026-03-27 06:00:27,198-INFO-Pipeline for categorical and numerical features is built
+2026-03-27 06:00:27,381-INFO-Model is trained with DT
+2026-03-27 06:00:27,382-INFO-Starting Grid Search for DT
+2026-03-27 06:00:53,909-INFO-Grid Search complete. Best params: {'model__max_depth': 20, 'model__min_samples_leaf': 2, 'model__min_samples_split': 5}
+2026-03-27 06:00:53,913-INFO-DT is saved at C:\Irrigation_Water_Requirement\Models\all_models
+2026-03-27 06:00:53,937-INFO-Prediction is done with DT
+2026-03-27 06:00:53,952-INFO-Results are saved at DT
+2026-03-27 06:00:53,963-INFO-Pipeline for categorical and numerical features is built
+2026-03-27 06:01:13,390-INFO-Model is trained with Stack_Cls
+2026-03-27 06:01:13,390-INFO-Starting Grid Search for Stack_Cls
+2026-03-27 06:01:14,837-ERROR-Error during Grid Search: Invalid parameter 'rf' for estimator StackingClassifier(estimators=[('xgb',
+                                XGBClassifier(base_score=None, booster=None,
+                                              callbacks=None,
+                                              colsample_bylevel=None,
+                                              colsample_bynode=None,
+                                              colsample_bytree=None,
+                                              device=None,
+                                              early_stopping_rounds=None,
+                                              enable_categorical=False,
+                                              eval_metric=None,
+                                              feature_types=None,
+                                              feature_weights=None, gamma=None,
+                                              grow_policy=None,
+                                              importance_type=None,
+                                              interaction_const...
+                                              learning_rate=0.1, max_bin=None,
+                                              max_cat_threshold=None,
+                                              max_cat_to_onehot=None,
+                                              max_delta_step=None, max_depth=10,
+                                              max_leaves=None,
+                                              min_child_weight=None,
+                                              missing=nan,
+                                              monotone_constraints=None,
+                                              multi_strategy=None,
+                                              n_estimators=None, n_jobs=None,
+                                              num_class=3, ...)),
+                               ('lr',
+                                LogisticRegression(max_iter=1000, n_jobs=-1,
+                                                   random_state=42))],
+                   final_estimator=RandomForestClassifier(random_state=42)). Valid parameters are: ['cv', 'estimators', 'final_estimator', 'n_jobs', 'passthrough', 'stack_method', 'verbose'].
+2026-03-27 06:02:56,087-INFO-Tuning has started
+2026-03-27 06:02:56,168-INFO-Pipeline for categorical and numerical features is built
+2026-03-27 06:02:56,373-INFO-Model is trained with DT
+2026-03-27 06:02:56,373-INFO-Starting Grid Search for DT
+2026-03-27 06:03:22,035-INFO-Grid Search complete. Best params: {'model__max_depth': 20, 'model__min_samples_leaf': 2, 'model__min_samples_split': 5}
+2026-03-27 06:03:22,038-INFO-DT is saved at C:\Irrigation_Water_Requirement\Models\all_models
+2026-03-27 06:03:22,061-INFO-Prediction is done with DT
+2026-03-27 06:03:22,074-INFO-Results are saved at DT
+2026-03-27 06:03:22,081-INFO-Pipeline for categorical and numerical features is built
+2026-03-27 06:03:39,486-INFO-Model is trained with Stack_Cls
+2026-03-27 06:03:39,486-INFO-Starting Grid Search for Stack_Cls
+2026-03-27 06:31:00,614-INFO-Grid Search complete. Best params: {'model__lr__C': 10, 'model__lr__solver': 'lbfgs', 'model__xgb__learning_rate': 0.1, 'model__xgb__max_depth': 5, 'model__xgb__n_estimators': 200}
+2026-03-27 06:31:00,654-INFO-Stack_Cls is saved at C:\Irrigation_Water_Requirement\Models\all_models
+2026-03-27 06:31:00,710-INFO-Prediction is done with Stack_Cls
+2026-03-27 06:31:00,728-INFO-Results are saved at Stack_Cls

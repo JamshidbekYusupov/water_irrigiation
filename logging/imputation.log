@@ -1,0 +1,136 @@
+2026-03-26 00:06:48,972-INFO-Preprocessing Pipeline is started working
+2026-03-26 00:07:02,257-INFO-Preprocessing Pipeline is started working
+2026-03-26 00:10:26,810-INFO-Preprocessing Pipeline is started working
+2026-03-26 00:10:26,834-INFO-Numerical Pipeline is built
+2026-03-26 00:10:26,835-INFO-Categorical pipeline is built
+2026-03-26 00:10:26,835-INFO-Column Transformer is built
+2026-03-26 00:10:26,849-INFO-Train Set is fitted
+2026-03-26 00:10:26,852-INFO-Transform is done to test set
+2026-03-26 00:32:09,681-INFO-Preprocessing Pipeline is started working
+2026-03-26 00:32:09,705-INFO-Numerical Pipeline is built
+2026-03-26 00:32:09,705-INFO-Categorical pipeline is built
+2026-03-26 00:32:09,705-INFO-Column Transformer is built
+2026-03-26 00:32:09,722-INFO-Train Set is fitted
+2026-03-26 00:32:09,726-INFO-Transform is done to test set
+2026-03-26 00:33:30,097-INFO-Preprocessing Pipeline is started working
+2026-03-26 00:33:30,122-INFO-Numerical Pipeline is built
+2026-03-26 00:33:30,122-INFO-Categorical pipeline is built
+2026-03-26 00:33:30,122-INFO-Column Transformer is built
+2026-03-26 00:33:30,136-INFO-Train Set is fitted
+2026-03-26 00:33:30,139-INFO-Transform is done to test set
+2026-03-26 00:33:43,011-INFO-Preprocessing Pipeline is started working
+2026-03-26 00:33:43,041-INFO-Numerical Pipeline is built
+2026-03-26 00:33:43,041-INFO-Categorical pipeline is built
+2026-03-26 00:33:43,041-INFO-Column Transformer is built
+2026-03-26 00:33:43,058-INFO-Train Set is fitted
+2026-03-26 00:33:43,061-INFO-Transform is done to test set
+2026-03-26 00:37:10,886-INFO-Preprocessing Pipeline is started working
+2026-03-26 00:37:10,910-INFO-Numerical Pipeline is built
+2026-03-26 00:37:10,911-INFO-Categorical pipeline is built
+2026-03-26 00:37:10,911-INFO-Column Transformer is built
+2026-03-26 00:37:10,924-INFO-Train Set is fitted
+2026-03-26 00:37:10,928-INFO-Transform is done to test set
+2026-03-26 00:39:21,925-INFO-Preprocessing Pipeline is started working
+2026-03-26 00:43:06,777-INFO-Preprocessing Pipeline is started working
+2026-03-26 00:43:06,801-INFO-Numerical Pipeline is built
+2026-03-26 00:43:06,801-INFO-Categorical pipeline is built
+2026-03-26 00:43:06,801-INFO-Column Transformer is built
+2026-03-26 00:43:06,815-INFO-Train Set is fitted
+2026-03-26 00:43:06,818-INFO-Transform is done to test set
+2026-03-26 00:54:08,876-INFO-Preprocessing Pipeline is started working
+2026-03-26 00:54:15,440-INFO-Preprocessing Pipeline is started working
+2026-03-26 00:54:15,472-INFO-Numerical Pipeline is built
+2026-03-26 00:54:15,472-INFO-Categorical pipeline is built
+2026-03-26 00:54:15,472-INFO-Column Transformer is built
+2026-03-26 00:54:15,491-INFO-Train Set is fitted
+2026-03-26 00:54:15,495-INFO-Transform is done to test set
+2026-03-26 00:54:35,902-INFO-Preprocessing Pipeline is started working
+2026-03-26 00:54:35,934-INFO-Numerical Pipeline is built
+2026-03-26 00:54:35,934-INFO-Categorical pipeline is built
+2026-03-26 00:54:35,934-INFO-Column Transformer is built
+2026-03-26 00:54:35,952-INFO-Train Set is fitted
+2026-03-26 00:54:35,957-INFO-Transform is done to test set
+2026-03-26 16:56:14,665-INFO-Preprocessing Pipeline is started working
+2026-03-26 16:56:14,720-INFO-Numerical Pipeline is built
+2026-03-26 16:56:14,720-INFO-Categorical pipeline is built
+2026-03-26 16:56:14,720-INFO-Column Transformer is built
+2026-03-26 16:56:14,736-INFO-Train Set is fitted
+2026-03-26 16:56:14,739-INFO-Transform is done to test set
+2026-03-26 16:56:36,623-INFO-Preprocessing Pipeline is started working
+2026-03-26 16:56:36,652-INFO-Numerical Pipeline is built
+2026-03-26 16:56:36,652-INFO-Categorical pipeline is built
+2026-03-26 16:56:36,652-INFO-Column Transformer is built
+2026-03-26 16:56:36,669-INFO-Train Set is fitted
+2026-03-26 16:56:36,672-INFO-Transform is done to test set
+2026-03-26 16:57:36,352-INFO-Preprocessing Pipeline is started working
+2026-03-26 16:57:36,389-INFO-Numerical Pipeline is built
+2026-03-26 16:57:36,389-INFO-Categorical pipeline is built
+2026-03-26 16:57:36,389-INFO-Column Transformer is built
+2026-03-26 16:57:36,407-INFO-Train Set is fitted
+2026-03-26 16:57:36,411-INFO-Transform is done to test set
+2026-03-26 16:59:33,009-INFO-Preprocessing Pipeline is started working
+2026-03-26 16:59:33,054-INFO-Numerical Pipeline is built
+2026-03-26 16:59:33,054-INFO-Categorical pipeline is built
+2026-03-26 16:59:33,054-INFO-Column Transformer is built
+2026-03-26 16:59:33,079-INFO-Train Set is fitted
+2026-03-26 16:59:33,086-INFO-Transform is done to test set
+2026-03-26 16:59:46,292-INFO-Preprocessing Pipeline is started working
+2026-03-26 16:59:46,320-INFO-Numerical Pipeline is built
+2026-03-26 16:59:46,320-INFO-Categorical pipeline is built
+2026-03-26 16:59:46,320-INFO-Column Transformer is built
+2026-03-26 16:59:46,336-INFO-Train Set is fitted
+2026-03-26 16:59:46,339-INFO-Transform is done to test set
+2026-03-26 16:59:58,360-INFO-Preprocessing Pipeline is started working
+2026-03-26 16:59:58,385-INFO-Numerical Pipeline is built
+2026-03-26 16:59:58,385-INFO-Categorical pipeline is built
+2026-03-26 16:59:58,385-INFO-Column Transformer is built
+2026-03-26 16:59:58,400-INFO-Train Set is fitted
+2026-03-26 16:59:58,404-INFO-Transform is done to test set
+2026-03-26 17:01:40,998-INFO-Preprocessing Pipeline is started working
+2026-03-26 17:01:41,025-INFO-Numerical Pipeline is built
+2026-03-26 17:01:41,025-INFO-Categorical pipeline is built
+2026-03-26 17:01:41,025-INFO-Column Transformer is built
+2026-03-26 17:01:41,041-INFO-Train Set is fitted
+2026-03-26 17:01:41,045-INFO-Transform is done to test set
+2026-03-26 17:02:32,092-INFO-Preprocessing Pipeline is started working
+2026-03-26 17:02:32,128-INFO-Numerical Pipeline is built
+2026-03-26 17:02:32,128-INFO-Categorical pipeline is built
+2026-03-26 17:02:32,128-INFO-Column Transformer is built
+2026-03-26 17:02:32,148-INFO-Train Set is fitted
+2026-03-26 17:02:32,152-INFO-Transform is done to test set
+2026-03-26 17:13:14,927-INFO-Preprocessing Pipeline is started working
+2026-03-26 17:13:14,962-INFO-Numerical Pipeline is built
+2026-03-26 17:13:14,962-INFO-Categorical pipeline is built
+2026-03-26 17:13:14,962-INFO-Column Transformer is built
+2026-03-26 17:13:14,978-INFO-Train Set is fitted
+2026-03-26 17:13:14,981-INFO-Transform is done to test set
+2026-03-26 17:14:32,356-INFO-Preprocessing Pipeline is started working
+2026-03-26 17:14:32,388-INFO-Numerical Pipeline is built
+2026-03-26 17:14:32,389-INFO-Categorical pipeline is built
+2026-03-26 17:14:32,389-INFO-Column Transformer is built
+2026-03-26 17:14:32,408-INFO-Train Set is fitted
+2026-03-26 17:14:32,414-INFO-Transform is done to test set
+2026-03-26 17:16:26,116-INFO-Preprocessing Pipeline is started working
+2026-03-26 17:16:26,144-INFO-Numerical Pipeline is built
+2026-03-26 17:16:26,144-INFO-Categorical pipeline is built
+2026-03-26 17:16:26,144-INFO-Column Transformer is built
+2026-03-26 17:16:26,160-INFO-Train Set is fitted
+2026-03-26 17:16:26,163-INFO-Transform is done to test set
+2026-03-26 18:15:26,182-INFO-Preprocessing Pipeline is started working
+2026-03-26 18:15:26,207-INFO-Numerical Pipeline is built
+2026-03-26 18:15:26,207-INFO-Categorical pipeline is built
+2026-03-26 18:15:26,207-INFO-Column Transformer is built
+2026-03-26 18:15:26,221-INFO-Train Set is fitted
+2026-03-26 18:15:26,224-INFO-Transform is done to test set
+2026-03-26 18:19:02,236-INFO-Preprocessing Pipeline is started working
+2026-03-26 18:19:02,276-INFO-Numerical Pipeline is built
+2026-03-26 18:19:02,276-INFO-Categorical pipeline is built
+2026-03-26 18:19:02,276-INFO-Column Transformer is built
+2026-03-26 18:19:02,298-INFO-Train Set is fitted
+2026-03-26 18:19:02,302-INFO-Transform is done to test set
+2026-03-26 18:20:09,833-INFO-Preprocessing Pipeline is started working
+2026-03-26 18:20:09,860-INFO-Numerical Pipeline is built
+2026-03-26 18:20:09,860-INFO-Categorical pipeline is built
+2026-03-26 18:20:09,861-INFO-Column Transformer is built
+2026-03-26 18:20:09,876-INFO-Train Set is fitted
+2026-03-26 18:20:09,879-INFO-Transform is done to test set

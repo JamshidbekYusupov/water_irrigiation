@@ -1,0 +1,145 @@
+2026-03-26 16:31:20,171-INFO-Basline model training has started
+2026-03-26 16:36:46,405-INFO-Basline model training has started
+2026-03-26 17:19:57,139-INFO-Basline model training has started
+2026-03-26 17:19:57,180-INFO-Pipeline for categorical and numerical features is built
+2026-03-26 17:19:57,180-ERROR-Error while training model with DT algorithm
+2026-03-26 17:22:49,540-INFO-Basline model training has started
+2026-03-26 17:23:01,195-INFO-Basline model training has started
+2026-03-26 17:23:09,571-INFO-Basline model training has started
+2026-03-26 17:23:09,611-INFO-Pipeline for categorical and numerical features is built
+2026-03-26 17:23:09,611-ERROR-Error while training model with DT algorithm
+2026-03-26 17:28:15,666-INFO-Basline model training has started
+2026-03-26 17:28:22,137-INFO-Basline model training has started
+2026-03-26 17:28:22,181-INFO-Pipeline for categorical and numerical features is built
+2026-03-26 17:28:22,182-ERROR-Error while training model with DT algorithm
+2026-03-26 17:57:59,380-INFO-Basline model training has started
+2026-03-26 17:58:04,652-INFO-Basline model training has started
+2026-03-26 17:58:04,740-INFO-Pipeline for categorical and numerical features is built
+2026-03-26 17:58:04,740-ERROR-Error while training model with DT algorithm
+2026-03-26 18:06:38,685-INFO-Basline model training has started
+2026-03-26 18:07:15,494-INFO-Basline model training has started
+2026-03-26 18:07:15,541-INFO-Pipeline for categorical and numerical features is built
+2026-03-26 18:07:15,541-ERROR-Error while training model with DT algorithm
+2026-03-26 18:08:32,615-INFO-Basline model training has started
+2026-03-26 18:08:39,312-INFO-Basline model training has started
+2026-03-26 18:08:39,354-INFO-Pipeline for categorical and numerical features is built
+2026-03-26 18:08:39,439-INFO-Model is trained with DT
+2026-03-26 18:08:39,444-INFO-DT is saved at C:\Irrigation_Water_Requirement\Models\all_models
+2026-03-26 18:08:39,449-INFO-Error while predcting with DT
+2026-03-26 18:21:09,982-INFO-Basline model training has started
+2026-03-26 18:21:10,036-INFO-Pipeline for categorical and numerical features is built
+2026-03-26 18:21:10,120-INFO-Model is trained with DT
+2026-03-26 18:21:10,124-INFO-DT is saved at C:\Irrigation_Water_Requirement\Models\all_models
+2026-03-26 18:21:10,128-INFO-Error while predcting with DT
+2026-03-26 18:32:55,060-INFO-Basline model training has started
+2026-03-26 18:33:00,930-INFO-Basline model training has started
+2026-03-26 18:33:00,981-INFO-Pipeline for categorical and numerical features is built
+2026-03-26 18:33:01,067-INFO-Model is trained with DT
+2026-03-26 18:33:01,070-INFO-DT is saved at C:\Irrigation_Water_Requirement\Models\all_models
+2026-03-26 18:33:01,093-INFO-Prediction is done with DT
+2026-03-26 18:33:01,094-ERROR-Error while saving results
+2026-03-26 18:34:43,096-INFO-Basline model training has started
+2026-03-26 18:34:53,958-INFO-Basline model training has started
+2026-03-26 18:34:54,006-INFO-Pipeline for categorical and numerical features is built
+2026-03-26 18:34:54,084-INFO-Model is trained with DT
+2026-03-26 18:34:54,087-INFO-DT is saved at C:\Irrigation_Water_Requirement\Models\all_models
+2026-03-26 18:34:54,109-INFO-Prediction is done with DT
+2026-03-26 18:34:54,109-ERROR-Error while saving results
+2026-03-26 18:36:03,814-INFO-Basline model training has started
+2026-03-26 18:36:13,323-INFO-Basline model training has started
+2026-03-26 18:36:13,371-INFO-Pipeline for categorical and numerical features is built
+2026-03-26 18:36:13,456-INFO-Model is trained with DT
+2026-03-26 18:36:13,460-INFO-DT is saved at C:\Irrigation_Water_Requirement\Models\all_models
+2026-03-26 18:36:13,483-INFO-Prediction is done with DT
+2026-03-26 18:36:13,498-INFO-Results are saved at DT
+2026-03-26 18:36:13,504-INFO-Pipeline for categorical and numerical features is built
+2026-03-26 18:36:13,563-ERROR-Error while training model with Stack_Cls algorithm
+2026-03-26 18:41:39,749-INFO-Basline model training has started
+2026-03-26 18:41:39,799-INFO-Pipeline for categorical and numerical features is built
+2026-03-26 18:41:39,884-INFO-Model is trained with DT
+2026-03-26 18:41:39,888-INFO-DT is saved at C:\Irrigation_Water_Requirement\Models\all_models
+2026-03-26 18:41:39,910-INFO-Prediction is done with DT
+2026-03-26 18:41:39,924-INFO-Results are saved at DT
+2026-03-26 18:41:39,930-INFO-Pipeline for categorical and numerical features is built
+2026-03-26 18:41:39,977-ERROR-Error while training model with Stack_Cls algorithm
+2026-03-26 18:43:01,427-INFO-Basline model training has started
+2026-03-26 18:43:31,116-INFO-Basline model training has started
+2026-03-26 18:43:46,394-INFO-Basline model training has started
+2026-03-26 18:43:46,444-INFO-Pipeline for categorical and numerical features is built
+2026-03-26 18:43:46,529-INFO-Model is trained with DT
+2026-03-26 18:43:46,533-INFO-DT is saved at C:\Irrigation_Water_Requirement\Models\all_models
+2026-03-26 18:43:46,555-INFO-Prediction is done with DT
+2026-03-26 18:43:46,570-INFO-Results are saved at DT
+2026-03-26 18:43:46,575-INFO-Pipeline for categorical and numerical features is built
+2026-03-26 18:43:46,613-ERROR-Error while training model with Stack_Cls algorithm, Error: 'RandomForestClassifier' object has no attribute 'estimators_'
+2026-03-26 18:46:59,873-INFO-Basline model training has started
+2026-03-26 18:46:59,931-INFO-Pipeline for categorical and numerical features is built
+2026-03-26 18:47:00,023-INFO-Model is trained with DT
+2026-03-26 18:47:00,027-INFO-DT is saved at C:\Irrigation_Water_Requirement\Models\all_models
+2026-03-26 18:47:00,049-INFO-Prediction is done with DT
+2026-03-26 18:47:00,063-INFO-Results are saved at DT
+2026-03-26 18:47:00,071-INFO-Pipeline for categorical and numerical features is built
+2026-03-26 18:47:09,295-INFO-Model is trained with Stack_Cls
+2026-03-26 18:47:09,323-INFO-Stack_Cls is saved at C:\Irrigation_Water_Requirement\Models\all_models
+2026-03-26 18:47:09,381-INFO-Prediction is done with Stack_Cls
+2026-03-26 18:47:09,417-INFO-Results are saved at Stack_Cls
+2026-03-26 18:50:22,469-INFO-Basline model training has started
+2026-03-26 18:50:29,810-INFO-Basline model training has started
+2026-03-26 18:50:29,862-INFO-Pipeline for categorical and numerical features is built
+2026-03-26 18:50:29,946-INFO-Model is trained with DT
+2026-03-26 18:50:29,950-INFO-DT is saved at C:\Irrigation_Water_Requirement\Models\all_models
+2026-03-26 18:50:29,972-INFO-Prediction is done with DT
+2026-03-26 18:50:29,990-INFO-Results are saved at DT
+2026-03-26 18:50:29,998-INFO-Pipeline for categorical and numerical features is built
+2026-03-26 18:50:39,610-INFO-Model is trained with Stack_Cls
+2026-03-26 18:50:39,630-INFO-Stack_Cls is saved at C:\Irrigation_Water_Requirement\Models\all_models
+2026-03-26 18:50:39,669-INFO-Prediction is done with Stack_Cls
+2026-03-26 18:50:39,685-INFO-Results are saved at Stack_Cls
+2026-03-26 18:51:38,112-INFO-Basline model training has started
+2026-03-26 18:51:42,658-INFO-Basline model training has started
+2026-03-26 18:51:42,711-INFO-Pipeline for categorical and numerical features is built
+2026-03-26 18:51:42,798-INFO-Model is trained with DT
+2026-03-26 18:51:42,801-INFO-DT is saved at C:\Irrigation_Water_Requirement\Models\all_models
+2026-03-26 18:51:42,824-INFO-Prediction is done with DT
+2026-03-26 18:51:42,839-INFO-Results are saved at DT
+2026-03-26 18:51:42,844-INFO-Pipeline for categorical and numerical features is built
+2026-03-26 18:51:52,831-INFO-Model is trained with Stack_Cls
+2026-03-26 18:51:52,850-INFO-Stack_Cls is saved at C:\Irrigation_Water_Requirement\Models\all_models
+2026-03-26 18:51:52,892-INFO-Prediction is done with Stack_Cls
+2026-03-26 18:51:52,909-INFO-Results are saved at Stack_Cls
+2026-03-26 18:57:35,321-INFO-Basline model training has started
+2026-03-26 18:57:38,531-INFO-Basline model training has started
+2026-03-26 18:57:38,580-INFO-Pipeline for categorical and numerical features is built
+2026-03-26 18:57:38,651-INFO-Model is trained with DT
+2026-03-26 18:57:38,654-INFO-DT is saved at C:\Irrigation_Water_Requirement\Models\all_models
+2026-03-26 18:57:38,672-INFO-Prediction is done with DT
+2026-03-26 18:57:38,687-INFO-Results are saved at DT
+2026-03-26 18:57:38,692-INFO-Pipeline for categorical and numerical features is built
+2026-03-26 18:57:48,116-INFO-Model is trained with Stack_Cls
+2026-03-26 18:57:48,137-INFO-Stack_Cls is saved at C:\Irrigation_Water_Requirement\Models\all_models
+2026-03-26 18:57:48,176-INFO-Prediction is done with Stack_Cls
+2026-03-26 18:57:48,193-INFO-Results are saved at Stack_Cls
+2026-03-26 19:01:55,034-INFO-Basline model training has started
+2026-03-26 19:01:59,279-INFO-Basline model training has started
+2026-03-26 19:01:59,337-INFO-Pipeline for categorical and numerical features is built
+2026-03-26 19:01:59,418-INFO-Model is trained with DT
+2026-03-26 19:01:59,421-INFO-DT is saved at C:\Irrigation_Water_Requirement\Models\all_models
+2026-03-26 19:01:59,442-INFO-Prediction is done with DT
+2026-03-26 19:01:59,455-INFO-Results are saved at DT
+2026-03-26 19:01:59,460-INFO-Pipeline for categorical and numerical features is built
+2026-03-26 19:02:09,164-INFO-Model is trained with Stack_Cls
+2026-03-26 19:02:09,187-INFO-Stack_Cls is saved at C:\Irrigation_Water_Requirement\Models\all_models
+2026-03-26 19:02:09,239-INFO-Prediction is done with Stack_Cls
+2026-03-26 19:02:09,266-INFO-Results are saved at Stack_Cls
+2026-03-26 19:07:01,269-INFO-Basline model training has started
+2026-03-26 19:07:06,446-INFO-Basline model training has started
+2026-03-26 19:07:06,496-INFO-Pipeline for categorical and numerical features is built
+2026-03-26 19:07:06,576-INFO-Model is trained with DT
+2026-03-26 19:07:06,579-INFO-DT is saved at C:\Irrigation_Water_Requirement\Models\all_models
+2026-03-26 19:07:06,602-INFO-Prediction is done with DT
+2026-03-26 19:07:06,615-INFO-Results are saved at DT
+2026-03-26 19:07:06,623-INFO-Pipeline for categorical and numerical features is built
+2026-03-26 19:07:16,905-INFO-Model is trained with Stack_Cls
+2026-03-26 19:07:16,928-INFO-Stack_Cls is saved at C:\Irrigation_Water_Requirement\Models\all_models
+2026-03-26 19:07:16,967-INFO-Prediction is done with Stack_Cls
+2026-03-26 19:07:16,983-INFO-Results are saved at Stack_Cls

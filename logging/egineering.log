@@ -1,0 +1,50 @@
+2026-03-26 21:19:45,182-ERROR-Error while adding features: unsupported operand type(s) for +: 'float' and 'str'
+2026-03-26 21:26:20,569-INFO-Feature adding has been conducted
+2026-03-26 21:26:20,575-ERROR-Error while transforming skewed features: could not convert string to float: 'Sandy'
+2026-03-26 21:33:09,796-INFO-Feature adding has been conducted
+2026-03-26 21:33:09,797-ERROR-Error while transforming skewed features: 'DataFrame' object has no attribute 'select_dtype'
+2026-03-26 21:33:39,679-INFO-Feature adding has been conducted
+2026-03-26 21:33:39,685-INFO-Skewness is handeled, Skewed Featrures: ['Soil_Fertility']
+2026-03-26 21:33:39,846-INFO-Engineered data is saved at C:\Irrigation_Water_Requirement\Data\engineered_Data
+2026-03-26 21:34:32,379-INFO-Feature adding has been conducted
+2026-03-26 21:34:32,386-INFO-Skewness is handeled, Skewed Featrures: ['Soil_Fertility', 'Heat_Stress']
+2026-03-26 21:34:32,538-INFO-Engineered data is saved at C:\Irrigation_Water_Requirement\Data\engineered_Data
+2026-03-27 01:28:20,009-INFO-Feature adding has been conducted
+2026-03-27 01:28:20,018-INFO-Skewness is handeled, Skewed Featrures: ['Soil_Fertility', 'Heat_Stress']
+2026-03-27 01:28:20,110-INFO-Engineered data is saved at C:\Irrigation_Water_Requirement\Data\engineered_Data
+2026-03-27 01:28:52,443-INFO-Feature adding has been conducted
+2026-03-27 01:28:52,446-INFO-Skewness is handeled, Skewed Featrures: ['Soil_Fertility', 'Heat_Stress']
+2026-03-27 01:28:58,124-INFO-Oversampling is done to ONLY TRAIN SET:Counter({'Irrigation_Need': 1})
+2026-03-27 01:28:58,280-INFO-Engineered data is saved at C:\Irrigation_Water_Requirement\Data\engineered_Data
+2026-03-27 01:32:44,189-INFO-Feature adding has been conducted
+2026-03-27 01:32:44,193-INFO-Skewness is handeled, Skewed Featrures: ['Soil_Fertility', 'Heat_Stress']
+2026-03-27 01:32:49,505-INFO-Oversampling is done to ONLY TRAIN SET:Counter({'Irrigation_Need': 1})
+2026-03-27 01:32:49,662-INFO-Engineered data is saved at C:\Irrigation_Water_Requirement\Data\engineered_Data
+2026-03-27 01:35:42,190-INFO-Feature adding has been conducted
+2026-03-27 01:35:42,193-INFO-Skewness is handeled, Skewed Featrures: ['Soil_Fertility', 'Heat_Stress']
+2026-03-27 01:35:47,544-INFO-Oversampling is done to ONLY TRAIN SET:Counter({np.float64(1.0): 4660, np.float64(2.0): 4660, np.float64(0.0): 4660})
+2026-03-27 01:35:47,717-INFO-Engineered data is saved at C:\Irrigation_Water_Requirement\Data\engineered_Data
+2026-03-27 02:25:19,806-INFO-Feature adding has been conducted
+2026-03-27 02:25:19,810-INFO-Skewness is handeled, Skewed Featrures: ['Soil_Fertility', 'Heat_Stress']
+2026-03-27 02:25:25,354-INFO-Oversampling is done to ONLY TRAIN SET:Counter({np.float64(1.0): 4660, np.float64(2.0): 4660, np.float64(0.0): 4660})
+2026-03-27 02:25:25,514-ERROR-Error while saving data 'numpy.ndarray' object has no attribute 'to_csv'
+2026-03-27 02:26:47,559-INFO-Feature adding has been conducted
+2026-03-27 02:26:47,562-INFO-Skewness is handeled, Skewed Featrures: ['Soil_Fertility', 'Heat_Stress']
+2026-03-27 02:26:53,759-INFO-Oversampling is done to ONLY TRAIN SET:Counter({np.float64(1.0): 4660, np.float64(2.0): 4660, np.float64(0.0): 4660})
+2026-03-27 02:26:53,915-ERROR-Error while saving data Length of values (13980) does not match length of index (1)
+2026-03-27 02:27:27,126-INFO-Feature adding has been conducted
+2026-03-27 02:27:27,129-INFO-Skewness is handeled, Skewed Featrures: ['Soil_Fertility', 'Heat_Stress']
+2026-03-27 02:27:32,416-INFO-Oversampling is done to ONLY TRAIN SET:Counter({np.float64(1.0): 4660, np.float64(2.0): 4660, np.float64(0.0): 4660})
+2026-03-27 02:27:32,576-ERROR-Error while saving data Series.__init__() got an unexpected keyword argument 'column'
+2026-03-27 02:27:54,630-INFO-Feature adding has been conducted
+2026-03-27 02:27:54,634-INFO-Skewness is handeled, Skewed Featrures: ['Soil_Fertility', 'Heat_Stress']
+2026-03-27 02:27:59,727-INFO-Oversampling is done to ONLY TRAIN SET:Counter({np.float64(1.0): 4660, np.float64(2.0): 4660, np.float64(0.0): 4660})
+2026-03-27 02:27:59,898-ERROR-Error while saving data Series.__init__() got an unexpected keyword argument 'columns'
+2026-03-27 02:28:59,112-INFO-Feature adding has been conducted
+2026-03-27 02:28:59,119-INFO-Skewness is handeled, Skewed Featrures: ['Soil_Fertility', 'Heat_Stress']
+2026-03-27 02:29:04,546-INFO-Oversampling is done to ONLY TRAIN SET:Counter({np.float64(1.0): 4660, np.float64(2.0): 4660, np.float64(0.0): 4660})
+2026-03-27 02:29:04,698-ERROR-Error while saving data Series.name must be a hashable type
+2026-03-27 02:29:42,323-INFO-Feature adding has been conducted
+2026-03-27 02:29:42,326-INFO-Skewness is handeled, Skewed Featrures: ['Soil_Fertility', 'Heat_Stress']
+2026-03-27 02:29:47,788-INFO-Oversampling is done to ONLY TRAIN SET:Counter({np.float64(1.0): 4660, np.float64(2.0): 4660, np.float64(0.0): 4660})
+2026-03-27 02:29:47,960-INFO-Engineered data is saved at C:\Irrigation_Water_Requirement\Data\engineered_Data
