@@ -4,13 +4,13 @@
 
 # ~Total_Water: Total_Water = Rainfall_mm + Previous_Irrigation_mm
 # ~Water_per_Hectare = (Rainfall_mm + Previous_Irrigation_mm) / Field_Area_hectare
-# ~Evaporation = num__Temperature_C × num__Sunlight_Hours × cat__Wind_Speed_kmh
-# ~Soil_Fertility = num__Organic_Carbon / (num__Electrical_Conductivity + 1)
-# ~Mulch_Effect = cat__Mulching_Used × num__Soil_Moisture
-# ~Heat_Stress = num__Temperature_C × ,num__Humidity
+# ~Evaporation = Temperature_C × Sunlight_Hours × cat__Wind_Speed_kmh
+# ~Soil_Fertility = Organic_Carbon / (Electrical_Conductivity + 1)
+# ~Mulch_Effect = cat__Mulching_Used × Soil_Moisture
+# ~Heat_Stress = Temperature_C × ,Humidity
 
-#num__Soil_pH,num__Soil_Moisture,num__Organic_Carbon,num__Electrical_Conductivity,
-# num__Temperature_C,num__Humidity,num__Rainfall_mm,num__Sunlight_Hours,
+#Soil_pH,Soil_Moisture,Organic_Carbon,Electrical_Conductivity,
+# Temperature_C,Humidity,Rainfall_mm,Sunlight_Hours,
 
 # cat__Soil_Type,cat__Wind_Speed_kmh,cat__Crop_Type,cat__Crop_Growth_Stage,cat__Season,
 # cat__Irrigation_Type,cat__Water_Source,cat__Field_Area_hectare,cat__Mulching_Used,
@@ -42,20 +42,20 @@ class Engineerig():
     def feature_adding(self):
         try:
             #Total water
-            self.X_train['Total_Water'] = self.X_train.num__Rainfall_mm + self.X_train.num__Soil_Moisture
-            self.X_test['Total_Water'] = self.X_test.num__Rainfall_mm + self.X_test.num__Soil_Moisture
+            self.X_train['Total_Water'] = self.X_train.Rainfall_mm + self.X_train.Soil_Moisture
+            self.X_test['Total_Water'] = self.X_test.Rainfall_mm + self.X_test.Soil_Moisture
 
             # Evaporation
-            self.X_train['Evaporation'] = self.X_train.num__Temperature_C * self.X_train.num__Sunlight_Hours
-            self.X_test['Evaporation'] = self.X_test.num__Temperature_C * self.X_test.num__Sunlight_Hours
+            self.X_train['Evaporation'] = self.X_train.Temperature_C * self.X_train.Sunlight_Hours
+            self.X_test['Evaporation'] = self.X_test.Temperature_C * self.X_test.Sunlight_Hours
 
             # Soil_Fertility
-            self.X_train['Soil_Fertility'] = self.X_train.num__Organic_Carbon / (self.X_train.num__Electrical_Conductivity + 1)
-            self.X_test['Soil_Fertility'] = self.X_test.num__Organic_Carbon / (self.X_test.num__Electrical_Conductivity + 1)
+            self.X_train['Soil_Fertility'] = self.X_train.Organic_Carbon / (self.X_train.Electrical_Conductivity + 1)
+            self.X_test['Soil_Fertility'] = self.X_test.Organic_Carbon / (self.X_test.Electrical_Conductivity + 1)
             
             # Heat_Stress
-            self.X_train['Heat_Stress'] = self.X_train.num__Temperature_C * self.X_train.num__Humidity
-            self.X_test['Heat_Stress'] = self.X_test.num__Temperature_C * self.X_test.num__Humidity
+            self.X_train['Heat_Stress'] = self.X_train.Temperature_C * self.X_train.Humidity
+            self.X_test['Heat_Stress'] = self.X_test.Temperature_C * self.X_test.Humidity
 
             logging.info(f'Feature adding has been conducted')
             return self
